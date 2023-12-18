@@ -1,2 +1,5 @@
-# Desafios-Exercicios-JS-02
-Exercícios JavaScript
+# Desafio-Exercicios-JS
+Repositório para exercícios e desafios do Java Script
+
+Teste
+
